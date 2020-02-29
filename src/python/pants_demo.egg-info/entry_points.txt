@@ -1,3 +1,0 @@
-[pytest11]
-demo_plugin = demo.lib.demo_plugin.plugin
-

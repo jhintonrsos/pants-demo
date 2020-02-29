@@ -9,3 +9,4 @@ logs/*
 *.pyc
 **/*.pyc
 **/_pycache__/
+**/**.egg-info/*
