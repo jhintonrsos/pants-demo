@@ -12,7 +12,7 @@ class DemoPlugin(object):
 def pytest_addoption(parser):
     group = parser.getgroup('demo_pants')
     group.addoption(
-        '--demo', action='store',
+        '--demo', action='store_true',
         dest='demo',
     )
 

@@ -16,5 +16,9 @@ python_library(
         version = "1.0.0",
         zip_safe = True,
     ),
+    sources = [
+        "plugin.py",
+        "setup.py",
+    ],
 )
 # ./pants setup-py --recursive src/python/demo/lib/demo_plugin:demo_plugin --setup-py-run="sdist bdist_wheel"
