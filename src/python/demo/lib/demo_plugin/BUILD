@@ -21,4 +21,3 @@ python_library(
         "setup.py",
     ],
 )
-# ./pants setup-py --recursive src/python/demo/lib/demo_plugin:demo_plugin --setup-py-run="sdist bdist_wheel"

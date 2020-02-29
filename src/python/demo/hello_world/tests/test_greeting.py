@@ -1,4 +1,6 @@
-import demo.hello_world.hello as hello
+import pytest
+
+import demo.hello_world.main.hello as hello
 
 
 def test_greeting():
