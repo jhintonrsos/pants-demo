@@ -1,0 +1,15 @@
+setup.py
+demo/__init__.py
+demo/hello_world/__init__.py
+demo/hello_world/hello.py
+demo/hello_world/tests/__init__.py
+demo/hello_world/tests/test_greeting.py
+demo/lib/__init__.py
+demo/lib/demo_plugin/__init__.py
+demo/lib/demo_plugin/plugin.py
+demo/lib/demo_plugin/setup.py
+pants_demo.egg-info/PKG-INFO
+pants_demo.egg-info/SOURCES.txt
+pants_demo.egg-info/dependency_links.txt
+pants_demo.egg-info/entry_points.txt
+pants_demo.egg-info/top_level.txt

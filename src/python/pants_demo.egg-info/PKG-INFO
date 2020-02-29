@@ -1,0 +1,11 @@
+Metadata-Version: 1.1
+Name: pants-demo
+Version: 2.0.1
+Summary: Example pants demo
+Home-page: http://www.github.com
+Author: Pants
+Author-email: UNKNOWN
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Framework :: Pytest
