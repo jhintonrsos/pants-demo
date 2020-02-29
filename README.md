@@ -1,6 +1,6 @@
 # pants-demo
 
-Pytest plugin which adds simple --demo flag, that when paassed to pytest will print test passed! if a test passes
+Pytest plugin which adds simple `--demo` flag, that when paassed to pytest will print test passed! if a test passes
 
 ##### TODO
 - enable plugin when running pytest via pants
@@ -17,7 +17,7 @@ run `cd src/python && python3 setup.py develop`
 
 ### Integrating pytest plugin with pants 
 
-Run tests, showing how to include extra pytest plugins at runtime
+Run tests, showing how to include extra pytest plugins at runtime (How do we include our local demo plugin?)
 
 ```bash
 ./pants  test  src/python/demo/hello_world/tests:test_greeting --pytest-pytest-plugins=pytest-html==1.22.0
