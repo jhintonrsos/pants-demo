@@ -1,0 +1,11 @@
+dist
+.cache/*
+.pants.d/*
+.pids/*
+logs/*
+.pants.workdir.file_lock
+.git/*
+.idea/*
+*.pyc
+**/*.pyc
+**/_pycache__/
